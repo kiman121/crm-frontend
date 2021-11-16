@@ -3,7 +3,16 @@
     "id": 1,
     "subject": "Email certificate expired",
     "status": "Client response pending",
-    "addedAt": "2020-09-23"
+    "addedAt": "2020-09-23",
+    "history": [
+      { "date": "21-10-10", "message": "sadsadsadafsd", "messageBy": "client" },
+      {
+        "date": "21-10-10",
+        "message": "sadsadsadafsd",
+        "messageBy": "operator"
+      },
+      { "date": "21-10-10", "message": "sadsadsadafsd", "messageBy": "client" }
+    ]
   },
   {
     "id": 2,
